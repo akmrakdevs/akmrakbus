@@ -3,7 +3,7 @@
 akmrak bus(아크락버스)는 버스도착시간.노선을 확인할수있는 사이트입니다.
 
 # 추가하기
-
+https://github.com/akmrakdevs/akmrakbus/issues/1#issue-2242080052
 # 버전 업데이트로그들
 
 없음
